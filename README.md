@@ -10,10 +10,9 @@
  * pds/: PSD files of templates
  * html/ html/css files of template
  
- 
  ![Solution 1](https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_1.png?raw=true)
-Format: ![Alt Text](https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_1.png?raw=true)
-
+ 
+ ![Solution 2](https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true)
 
  ## ** LICENSE **
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
