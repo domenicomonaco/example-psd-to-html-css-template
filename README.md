@@ -10,9 +10,10 @@
  * pds/: PSD files of templates
  * html/ html/css files of template
  
- ![Solution 1](https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_1.png?raw=true){:style="float: right;width: 50%;"}
  
- ![Solution 2](https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true){:style="float: right;width: 50%;"}
+ <img align="left" width="250" src="https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true">
+
+ <img align="left" width="250" src="https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true">
 
  ## ** LICENSE **
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
