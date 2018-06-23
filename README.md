@@ -11,8 +11,8 @@
  * html/ html/css files of template
  
  
- ![Solution 1](https://domenicomonaco.github.io/example-psd-to-html-css-template/_docs/screen/Soluzion_1.png)
-Format: ![Alt Text](url)
+ ![Solution 1](https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_1.png?raw=true)
+Format: ![Alt Text](https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_1.png?raw=true)
 
 
  ## ** LICENSE **
