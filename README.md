@@ -12,8 +12,9 @@
  
 ---
 ## **Screen**
+| <img align="left" width="50%" src="https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true">  | <img align="left" width="50%" src="https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true">  |
+|---|---|
 
- <img align="left" width="50%" src="https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true"> <img align="left" width="50%" src="https://github.com/domenicomonaco/example-psd-to-html-css-template/blob/master/_docs/screen/Solution_2.png?raw=true">
  
 
 ---
