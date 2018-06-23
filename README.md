@@ -1,10 +1,9 @@
 # Example of Web Design Corporate Template with Wireframe, PSD and HTML/CSS
 
-
 ## **Author**
  * Domenico Monaco
- * hack@kiuz.it
- * http://monaco.kiuz.it
+ * mail@domenicomonaco.it
+ * http://domenicomonaco.it
 
 ## **Contents**
  * brief/: main color palette, main and secondaries fonts
